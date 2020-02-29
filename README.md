@@ -1,4 +1,4 @@
-Private Scripts
+**Private Scripts**
 
 **Amazon Web Services Instance Root Permissison**
 
